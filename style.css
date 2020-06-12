@@ -1,0 +1,137 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	position: absolute;
+	max-width: auto;
+	height: auto;
+}
+
+
+
+.navbar{
+	width: 80%;
+	display: inline-block;
+	position: relative;
+}
+
+.logo{
+	
+	position: absolute;
+	width: 130px;
+	height: 59px;
+	left: 146px;
+	top: 30px;
+
+
+}
+
+.contact{
+	position: absolute;
+	width: 70px;
+	height: 24px;
+	left: 1039px;
+	top: 51px;
+
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	/* identical to box height */
+
+	text-align: center;
+
+}
+
+
+	/* Grammy Awards facts at your fingertips. */
+
+.title{
+	position: absolute;
+	width: 1098px;
+	height: 72px;
+	left: 171px;
+	top: 150px;
+
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	line-height: 72px;
+	/* identical to box height */
+	color: #2F80ED;
+}
+
+	/* Get all the facts you need to know about the Grammy awards everyday on your mobile phone. It’s fun and educating. */
+
+.subtitle{
+	position: absolute;
+	width: 590px;
+	height: 50px;
+	left: 425px;
+	top: 247px;
+
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+
+	color: rgba(0, 0, 0, 0.75);
+
+}
+
+	/* Appstore */
+
+span .appstore{
+	position: absolute;
+	width: 171.2px;
+	height: 56px;
+	left: 500px;
+	top: 322px;
+}
+
+	/* Playstore */
+
+span .playstore{
+
+
+	position: absolute;
+	width: 171.2px;
+	height: 56px;
+	left: 734px;
+	top: 322px;
+
+}
+
+	/* Particles */
+
+span .particle{
+
+
+	position: absolute;
+	width: 785px;
+	height: 556px;
+	left: 332px;
+	top: 397px;
+
+	opacity: 0.85;
+
+}
+
+	/* Phone */
+
+span .phone{
+
+
+	position: absolute;
+	width: 300px;
+	height: 609px;
+	left: 564px;
+	top: 415px;
+}
