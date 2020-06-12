@@ -2,6 +2,8 @@
 
 Design Link [ https://www.figma.com/file/07fka6OneOSc4623NKCCAL/AFacts-Landing-Page?node-id=1%3A2 ]
 
+Deployed Link [ https://afacts.netlify.app/ ]
+
 # INSTRUCTIONS
 
 ## STEPS to fork, clone and work (add and commit) on this repository
